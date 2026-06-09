@@ -1,17 +1,18 @@
-Hi, I'm mercy muiruri
+Hi, I'm Mercy Muiruri 👋
 
 ## About Me
-- I'm currently learning computer programming at mahanaim weekend academy
-- I'm interested in coding
-- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
+- I am pursuing a diploma in Accounting and Finance at Kiriri Women’s University of Science and Technology, and I'm currently working toward my CPA qualification.
+- I'm interested in financial analysis, data management, and learning how tech tools can automate and simplify accounting processes.
+- I'm looking to collaborate on beginner-friendly open-source projects, digital assignments, and learning Git workflows.
 
 ## Skills I'm Building
 - Git and GitHub
-- python and java script
+- Financial Modeling & Accountancy
+- Data Analysis Basics
 
 ## Current Projects
-- [Project name](link) — short description
+- [my-first-repo](https://github.com/mercymuiruri-hue/my-first-repo) — My very first GitHub repository created while learning how version control works.
 
 ## How to Reach Me
-- Email: mercgmuiruri2003@gmail.com
-- LinkedIn: [your LinkedIn profile link]# mercymuirurihue
+-Email:mercymuiruri2003@gmail.com
+- LinkedIn: https://github.com/mercymuiruri-hue
