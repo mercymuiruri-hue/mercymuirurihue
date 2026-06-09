@@ -15,4 +15,4 @@ Hi, I'm Mercy Muiruri 👋
 
 ## How to Reach Me
 -Email:mercymuiruri2003@gmail.com
-- LinkedIn: https://github.com/mercymuiruri-hue
+- LinkedIn:https://github.com/mercymuiruri-hue
